@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: honeydew;
+
+}
+
+main{
+    width: 600px;
+    margin: 0 auto;
+    background-color: lavender;
+    border: solid black;
+}
+
+#teamForm{
+
+    margin: 12px;
+    padding: 10px;
+
+
+}
